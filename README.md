@@ -10,7 +10,7 @@ A modern, fully responsive one-page portfolio website for a **Graphic Designer**
 
 ## 🔗 Live Demo
 
-**Live Site:** https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+**Live Site:** https://aayanfarooq.github.io/
 
 > Replace the link above with your real GitHub Pages address after publishing.
 
