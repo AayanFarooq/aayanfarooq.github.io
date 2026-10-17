@@ -122,7 +122,7 @@ so the included `mailer.php` can **not** send email from GitHub.
 
 ## 🙏 Credits
 
-Website design based on the BioHub personal portfolio template by InversWeb,
+Website design based on the Aayan Farooq personal portfolio,
 customised with original content, services and portfolio work.
 
 ---
