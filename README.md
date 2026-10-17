@@ -12,8 +12,6 @@ A modern, fully responsive one-page portfolio website for a **Graphic Designer**
 
 **Live Site:** https://aayanfarooq.github.io/
 
-> Replace the link above with your real GitHub Pages address after publishing.
-
 ## ✨ Features
 
 - Fully responsive design — mobile, tablet and desktop
@@ -90,7 +88,7 @@ With VS Code, install the *Live Server* extension, then right-click
 
 **Clone:**
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+git clone https://github.com/aayanfarooq/aayanfarooq.github.io.git
 ```
 
 ## 🌐 Deploy on GitHub Pages
@@ -99,7 +97,7 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
 2. Open the repository → **Settings** → **Pages**.
 3. In **Build and deployment**, choose **Deploy from a branch**,
    select the `main` branch and the `/ (root)` folder, then **Save**.
-4. Wait a minute — your site goes live at
+4. Wait a minute — the site is live at
    `https://aayanfarooq.github.io/`
 
 ## ✉️ Contact Form — Important Note
